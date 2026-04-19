@@ -2,18 +2,23 @@ import streamlit as st
 import pickle
 import numpy as np
 import pandas as pd
+import os
+
+# get the directory where app.py is located
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+# os.path.abspath(__file__) = full path of app.py
+# os.path.dirname() = folder containing app.py
 
 # Load model, scaler and feature names
-with open('loan_default_model.pkl', 'rb') as f:
+with open(os.path.join(BASE_DIR, 'loan_default_model.pkl'), 'rb') as f:
     model = pickle.load(f)
-# rb = read binary mode
-# loads our trained XGBoost model
+# os.path.join = combines folder path + filename
+# ensures correct path on any machine
 
-with open('scaler.pkl', 'rb') as f:
+with open(os.path.join(BASE_DIR, 'scaler.pkl'), 'rb') as f:
     scaler = pickle.load(f)
-# loads our fitted scaler
 
-with open('feature_names.pkl', 'rb') as f:
+with open(os.path.join(BASE_DIR, 'feature_names.pkl'), 'rb') as f:
     feature_names = pickle.load(f)
 # loads column names
 
