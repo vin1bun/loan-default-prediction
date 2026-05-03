@@ -186,7 +186,7 @@ Aspiring Data Scientist | Delhi NCR
 
 🔗 GitHub: [github.com/vin1bun](https://github.com/vin1bun)
 🔗 LinkedIn: [linkedin.com/in/vineetprakash03](https://linkedin.com/in/vineetprakash03)
-🔗 Live Demo: [Click here]([your_streamlit_link](https://loan-default-prediction-l4joskzu8jcyxia6ftuucm.streamlit.app/))
+ 🔗 Live Demo: [Click here](https://loan-default-prediction-l4joskzu8jcyxia6ftuucm.streamlit.app/)
 
 ---
 
