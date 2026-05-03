@@ -17,7 +17,7 @@ explainability, making it ready for real-world
 banking environments where regulatory compliance 
 requires explainable decisions.
 
-🔗 **[Live Demo — Try it here](your_streamlit_link)**
+🔗 **[Live Demo — Try it here](https://loan-default-prediction-l4joskzu8jcyxia6ftuucm.streamlit.app/)**
 
 ---
 
