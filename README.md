@@ -1,9 +1,8 @@
 # 🏦 Loan Default Prediction
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![XGBoost](https://img.shields.io/badge/XGBoost-2.0-orange)
-![Streamlit](https://img.shields.io/badge/Streamlit-Live-red)
-![AUC-ROC](https://img.shields.io/badge/AUC--ROC-0.743-green)
+
+![Streamlit][(https://img.shields.io/badge/Streamlit-Live-red](https://loan-default-prediction-l4joskzu8jcyxia6ftuucm.streamlit.app/))
+
 
 ## 📌 Project Overview
 
