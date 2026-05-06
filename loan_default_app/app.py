@@ -159,3 +159,12 @@ if st.button("🔍 Predict Default Risk"):
                 f"⬇️ **{row['Feature']}** "
                 f"→ decreases default risk "
                 f"(impact: {row['Impact']:.3f})")
+
+# ── Branding footer ────────────────────────────────────────────────────────────
+st.markdown("---")
+st.markdown(
+    "<div style='text-align: center; color: grey; font-size: 0.85rem;'>"
+    "Created by <strong>Vineet Prakash</strong> · Data Scientist"
+    "</div>",
+    unsafe_allow_html=True
+)
