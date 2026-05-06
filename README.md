@@ -1,7 +1,7 @@
 # 🏦 Loan Default Prediction
 
 
-![Streamlit](https://img.shields.io/badge/Streamlit-Live-red) (https://loan-default-prediction-l4joskzu8jcyxia6ftuucm.streamlit.app/)
+![Streamlit][(https://img.shields.io/badge/Streamlit-Live-red)](https://loan-default-prediction-l4joskzu8jcyxia6ftuucm.streamlit.app/) 
 
 
 ## 📌 Project Overview
